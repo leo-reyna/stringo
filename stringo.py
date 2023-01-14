@@ -42,4 +42,7 @@ else:
     elif seleccion ==  "Espresso":
         msgforEspresso = f"Coming right up! {customer}"
         print(msgforEspresso)
+    elif seleccion == "Iced Coffee":
+        msforicedcoffee = f"Hot outside, better get something cold {customer}"
+        print(msforicedcoffee)
 # more to come
