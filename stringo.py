@@ -1,5 +1,6 @@
-# RL. 2023
-# Stringo
+# RL. Jan 2023
+# String Examples, If Statments
+#
 #
 
 import os
