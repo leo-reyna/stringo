@@ -14,7 +14,7 @@ print("---------------------------------".center(width))
 print("WELCOME TO BELUGA COFFEE".center(width))
 print("------------------------".center(width))
 print("Stringo Industries 1999.".center(width))
-# print("-" * 24)
+# print("-" * 24, ``)
 
 # Coffee Menu
 menu = "Coffee, Decaf, Tea, Latte, Espresso, Iced Coffee"
